@@ -1,0 +1,2 @@
+Scenario 1 : Verify Cancellation of tickets
+Scenario 2 : Booking multiple tickets for festival days
