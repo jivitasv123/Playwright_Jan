@@ -1,5 +1,14 @@
+//By A
 Scenario 1 : Verify Cancellation of tickets
 Scenario 2 : Booking multiple tickets for festival days
 
+
+//By B
+Scenario 3: Ac Booking
+Scenario 4: Tatkal booking
+
+//By A
 Scenario 5 : Book train from Che to Bombay
 Scenario 6 : Book train from Bng to Goa
+
+
