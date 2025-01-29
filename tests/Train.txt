@@ -1,2 +1,5 @@
 Scenario 1 : Verify Cancellation of tickets
 Scenario 2 : Booking multiple tickets for festival days
+
+Scenario 5 : Book train from Che to Bombay
+Scenario 6 : Book train from Bng to Goa
