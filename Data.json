@@ -1,0 +1,19 @@
+{
+    
+    "UserDetailsA": {
+      "firstName": "Jivita",
+      "lastName": "Trends",
+      "address": "chennai",
+      "email" : "jivitatrends2123",
+      "phNo": "9080883631"
+    },
+
+    "UserDetailsB": {
+      "firstName": "Vijay",
+      "lastName": "DataAnalyst",
+      "address": "Bangalore",
+      "email" : "Vijaytrends2123",
+      "phNo": "897654322"
+    }
+
+}
