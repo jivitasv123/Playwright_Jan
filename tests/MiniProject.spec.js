@@ -14,11 +14,35 @@ test('SwagLabs', async ({page}) => {
     const pp = new ProductPage(page);
     await pp.selectProductAndAddToCart();
      
-    
+  
       const cp = new CartPage(page); 
       cp.fillDetails(testData.UserDetails.firstName , 'Trends' , '600041');
      
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 //  await page.goto('https://www.saucedemo.com/');
 //   //LoginPage
 //   await page.locator('[data-test="username"]').fill('standard_user');

@@ -20,14 +20,7 @@ class LoginPage{
         
         }
 
-        async assertLoginSuccessful() {
-            try {
-              await this.page.waitForSelector(this.logo, { state: 'visible' });
-              console.log('Login successful.');
-            } catch (error) {
-              throw new Error('Login failed. Logo name not visible');
-            }
-          }
+        
 
 
 
